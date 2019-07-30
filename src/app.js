@@ -1,1 +1,1 @@
-console.log('iniciando Red Social')
+console.log('iniciando')
