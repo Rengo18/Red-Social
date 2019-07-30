@@ -1,1 +1,1 @@
-console.log('iniciando')
+console.log('iniciando en frontend ')
