@@ -1,0 +1,1 @@
+console.log('iniciando Red Social');
