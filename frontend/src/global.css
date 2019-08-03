@@ -1,0 +1,9 @@
+body{
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+}
+
+a,input,button{
+    text-decoration: none;
+    font-family: 'Comfortaa', cursive;
+}
